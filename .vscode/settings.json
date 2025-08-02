@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "string_view": "cpp",
+        "cmath": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "__config": "cpp",
+        "ratio": "cpp",
+        "random": "cpp",
+        "numbers": "cpp",
+        "thread": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "system_error": "cpp",
+        "mutex": "cpp",
+        "functional": "cpp",
+        "target": "cpp"
+    }
+}
